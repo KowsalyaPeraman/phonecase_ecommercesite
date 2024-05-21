@@ -1,0 +1,286 @@
+ * {
+   margin: 0;
+   padding: 0;
+   font-family: sans-serif;
+ }
+
+ .header {
+   background: linear-gradient(135deg, #00eaff, #4d3589, #badaff, #0025ce);
+   height: 130px;
+ }
+
+ #list_menu {
+   width: 70px;
+   margin: 20px;
+   position: absolute;
+   top: 8px;
+   left: 30px
+ }
+
+ .using_flex {
+   float: right;
+ }
+
+ #shipping_logo {
+   width: 180px;
+   position: absolute;
+   right: 70px;
+ }
+
+ #para1 {
+   color: white;
+   font-size: 18px;
+   margin: 10px;
+   position: absolute;
+   top: 82px;
+   right: 16px;
+ }
+
+ h3 {
+   text-align: center;
+   position: relative;
+   top: 50px;
+   color: white;
+   font-size: 30px;
+ }
+
+ .header2 img {
+   width: 600px;
+   position: absolute;
+   top: 86px;
+   right: 60px;
+ }
+
+ h1 {
+   margin-left: 9%;
+   position: absolute;
+   top: 30%;
+
+ }
+
+ h2 {
+   margin-left: 9%;
+   position: absolute;
+   top: 40%;
+   margin-left: 15%;
+
+ }
+
+ #word {
+   color: #4d3589;
+ }
+
+ hr {
+   position: relative;
+   top: 24.6rem;
+
+ }
+
+ #btn1 {
+   background: linear-gradient(135deg, #00eaffce, #4d3589c1, #badaffc9, #0026ced8);
+   padding: 18px;
+   color: white;
+   border: none;
+   position: absolute;
+   top: 49%;
+   left: 19%;
+   font-size: 18px;
+   border-radius: 4px;
+ }
+
+ #btn1:hover {
+   color: black;
+ }
+
+ .border {
+   background: linear-gradient(135deg, #00eaff, #4d3589, #badaff, #0025ce);
+   width: 92rem;
+   height: 2px;
+   position: absolute;
+   top: 64%;
+ }
+
+ .header3 img {
+   width: 150px;
+   position: absolute;
+   top: 62%;
+   left: 30%;
+ }
+
+ #para2 {
+   position: absolute;
+   top: 68%;
+   left: 38%;
+   font-size: 26px;
+   padding: 20px;
+   color: #4d3589;
+ }
+
+ ul {
+   list-style: none;
+   display: flex;
+   justify-content: space-evenly;
+   position: relative;
+   top: 468px;
+ }
+
+ ul li a {
+   text-decoration: none;
+   color: white;
+   font-size: 22px;
+ }
+
+ ul li a:hover {
+   color: black;
+ }
+
+ .nav_bar {
+   background: linear-gradient(135deg, #00eaff, #4d3589, #badaff, #0025ce);
+   padding: 20px;
+
+ }
+
+ #float2 {
+   margin-left: 78px;
+ }
+
+ .card1 p.card-text {
+   background: linear-gradient(135deg, #00eaff, #4d3589, #badaff, #0025ce);
+   color: white;
+ }
+
+ .card1 p {
+   text-align: center;
+ }
+
+ .card1 {
+   position: absolute;
+   top: 98%;
+   left: 110px;
+ }
+
+ .card2 {
+   position: absolute;
+   top: 0;
+   left: 20rem;
+ }
+
+ .card3 {
+   position: absolute;
+   top: 0;
+   left: 20rem;
+ }
+
+ .card4 {
+   position: absolute;
+   top: 0;
+   left: 20rem;
+ }
+
+ .card5 {
+   position: absolute;
+   top: 110%;
+   right: 60rem;
+ }
+
+ .card6 {
+   position: absolute;
+   top: 0;
+   left: 20rem;
+ }
+
+ .card7 {
+   position: absolute;
+   top: 0;
+   left: 20rem;
+ }
+
+ .card8 {
+   position: absolute;
+   top: 0;
+   left: 20rem;
+ }
+
+ .card9 {
+   position: absolute;
+   top: 110%;
+   right: 60rem;
+ }
+
+ .card10 {
+   position: absolute;
+   top: 0;
+   left: 20rem;
+ }
+
+ .card11 {
+   position: absolute;
+   top: 0;
+   left: 20rem;
+ }
+
+ .card12 {
+   position: absolute;
+   top: 0;
+   left: 20rem;
+ }
+
+ .card13 {
+   position: absolute;
+   top: 110%;
+   right: 27.4rem;
+ }
+
+ .card14 {
+   position: absolute;
+   top: 0;
+   left: 20rem;
+ }
+
+ .card15 {
+   position: absolute;
+   top: 0;
+   left: 20rem;
+ }
+
+ .card16 {
+   position: absolute;
+   top: 0;
+   left: 20rem;
+ }
+
+ .border1 {
+   background: linear-gradient(135deg, #00eaff, #4d3589, #badaff, #0025ce);
+   width: 70rem;
+   height: 2px;
+   position: absolute;
+   right: 0;
+   margin-top: 30px;
+
+ }
+
+ .border2 {
+   background: linear-gradient(135deg, #00eaff, #4d3589, #badaff, #0025ce);
+   width: 65.5rem;
+   height: 2px;
+   position: absolute;
+   margin-top: 30px;
+
+ }
+
+ .grid {
+   position: relative;
+   margin-top: 60px;
+   right: 2%;
+   display: grid;
+   grid-template-columns: 42% 42% 42% 42%;
+   padding: 10px;
+ }
+
+ .grid1 {
+   background: linear-gradient(135deg, #00eaffce, #4d3589c1, #badaffc9, #0026ced8);
+   width: fit-content;
+   padding: 30px;
+   font-size: 20px;
+   text-align: center;
+ }
